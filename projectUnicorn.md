@@ -18,7 +18,7 @@ Create an attractive background for modular use on websites, specifically for my
 
 
 ## jQuery
-Along with HTML and CSS, jQuery is intended to add the animation of the layers as ```<div>```s using .animate() function. 
+Along with HTML and CSS, jQuery is intended to add the animation of the layers as ```<div>```s using jQuery's .animate() function. 
 
 
 ## Credits
@@ -28,15 +28,14 @@ This project was inspired by the open scene of “Princess Mononoke”, a film d
 
 
 3rdGreyMtn: https://drive.google.com/file/d/0B7XF8d1AI9A3amNXRTBnVUFweUE/view?usp=sharing
-2ndGreyMtn:
-https://drive.google.com/file/d/0B7XF8d1AI9A3Wm9JTnJ2b1cwNmc/view?usp=sharing
-1stGreyMtn
-https://drive.google.com/file/d/0B7XF8d1AI9A3RVBxdUhWTmNaNDg/view?usp=sharing
+
+2ndGreyMtn: https://drive.google.com/file/d/0B7XF8d1AI9A3Wm9JTnJ2b1cwNmc/view?usp=sharing
+
+1stGreyMtn: https://drive.google.com/file/d/0B7XF8d1AI9A3RVBxdUhWTmNaNDg/view?usp=sharing
 
 
-thirdMtnRange:
-https://drive.google.com/file/d/0B7XF8d1AI9A3NjZwOGltV1lGbG8/view?usp=sharing
-secondMtnRange:
-https://drive.google.com/file/d/0B7XF8d1AI9A3RlNvZkJsUmxneU0/view?usp=sharing
-firstMtnRange:
-https://drive.google.com/file/d/0B7XF8d1AI9A3NkIyMS15TGxGME0/view?usp=sharing
+thirdMtnRange: https://drive.google.com/file/d/0B7XF8d1AI9A3NjZwOGltV1lGbG8/view?usp=sharing
+
+secondMtnRange: https://drive.google.com/file/d/0B7XF8d1AI9A3RlNvZkJsUmxneU0/view?usp=sharing
+
+firstMtnRange: https://drive.google.com/file/d/0B7XF8d1AI9A3NkIyMS15TGxGME0/view?usp=sharing
