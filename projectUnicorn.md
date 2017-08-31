@@ -18,7 +18,7 @@ Create an attractive background for modular use on websites, specifically for my
 
 
 ## jQuery
-Along with HTML and CSS, jQuery is intended to add the animation of the layers as <div>s using .animate() function. 
+Along with HTML and CSS, jQuery is intended to add the animation of the layers as ```<div>```s using .animate() function. 
 
 
 ## Credits
