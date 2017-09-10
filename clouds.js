@@ -34,9 +34,18 @@ function wheel(event) {
 
 function handle(delta) {
     var time = 1000;
-	var distance = 300;
+	  var distance = 300;
 
     $('html, body').stop().animate({
         scrollTop: $(window).scrollTop() - (distance * delta)
     }, time );
 }
+
+//****************scrollTo*******************
+// $('a[href^="#"]').click(function(e) {
+//     // Prevent the jump and the #hash from appearing on the address bar
+//     e.preventDefault();
+//     // Scroll the window, stop any previous animation, stop on user manual scroll
+//     // Check https://github.com/flesler/jquery.scrollTo for more customizability
+//     $(window).stop(true).scrollTo(this.hash, {duration:1000, interrupt:true});
+//   });
