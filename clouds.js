@@ -41,6 +41,17 @@ function handle(delta) {
     }, time );
 }
 
+var b = function($b,speed){
+    beeWidth = $b.width();
+
+    $b.animate({
+        "left": "50%"
+    }, speed);
+};
+
+$(function(){
+    b($("#b"), 5000);
+});
 //****************scrollTo*******************
 // $('a[href^="#"]').click(function(e) {
 //     // Prevent the jump and the #hash from appearing on the address bar
