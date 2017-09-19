@@ -7,10 +7,10 @@ function parallax() {
   var wScroll = $(window).scrollTop();
 
   $('.parallax--3rd').css('top',
-  +(wScroll*0.50)+'px')
+  +(wScroll*0.65)+'px')
 
   $('.parallax--2nd').css('top',
-  +(wScroll*0.68)+'px')
+  +(wScroll*0.78)+'px')
 
   $('.parallax--1st').css('top',
   +(wScroll*0.85)+'px')
@@ -50,7 +50,7 @@ var b = function($b,speed){
 };
 
 $(function(){
-    b($("#b"), 60000);
+    b($("#b"), 100000);
 });
 //****************scrollTo*******************
 // $('a[href^="#"]').click(function(e) {

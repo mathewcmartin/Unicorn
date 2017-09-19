@@ -45,7 +45,7 @@ div#b {
 
 img {
   max-width: 100%;
-  height: 100;
+  height: 100%;
   position: block;
 }
 
@@ -55,7 +55,7 @@ div {
   left: 0px;
   margin: 0px;
   width: 100%;
-  height: 75%;
+  height: 100%;
 }
 
 .parallax--3rd {
@@ -68,13 +68,13 @@ div {
 .parallax--2nd {
   top: 25px;
   position: absolute;
-  height: 90%;
+  height: 100%;
   width: 100%;
 }
 
 .parallax--1st {
   top: -15px;
   position: absolute;
-  height: 80%;
+  height: 100%;
   width: 100%;
 }
