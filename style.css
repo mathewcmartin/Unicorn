@@ -38,9 +38,10 @@ div#b {
   position: fixed;
   top:0px;
   left:0px;
+  margin-left: 15%;
   width: 200px;
-  height: 100px;
-  background: url("./clouds/cloudGIF/clouds.gif") 0 0 no-repeat;
+  height: 200px;
+  background: url("./moonphases/moonphases.gif") 0 0 no-repeat;
 }
 
 img {

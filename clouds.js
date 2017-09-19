@@ -50,7 +50,7 @@ var b = function($b,speed){
 };
 
 $(function(){
-    b($("#b"), 100000);
+    b($("#b"), 250000);
 });
 //****************scrollTo*******************
 // $('a[href^="#"]').click(function(e) {
