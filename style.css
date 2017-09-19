@@ -8,7 +8,7 @@ body {
   margin: 0;
   font-family: 'Raleway', sans-serif;
   text-align: center;
-  background-color: #111;
+  background-color: #000;
 }
 
 /*#wrapper {
@@ -35,13 +35,13 @@ body {
   }*/
 
 div#b {
-      position: fixed;
-      top:40px;
-      left:0;
-      width: 40px;
-      height: 40px;
-      background: url(https://photos.app.goo.gl/fiCHXmbJYwIU2DRz2) 0 0 no-repeat;
-  }
+  position: fixed;
+  top:0px;
+  left:0px;
+  width: 200px;
+  height: 100px;
+  background: url("./clouds/cloudGIF/clouds.gif") 0 0 no-repeat;
+}
 
 img {
   max-width: 100%;
@@ -62,16 +62,19 @@ div {
   top: 0px;
   position: absolute;
   height: 100%;
+  width: 100%;
 }
 
 .parallax--2nd {
   top: 25px;
   position: absolute;
   height: 90%;
+  width: 100%;
 }
 
 .parallax--1st {
   top: -15px;
   position: absolute;
   height: 80%;
+  width: 100%;
 }

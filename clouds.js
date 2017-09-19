@@ -45,12 +45,12 @@ var b = function($b,speed){
     beeWidth = $b.width();
 
     $b.animate({
-        "left": "50%"
+        "left": "100%"
     }, speed);
 };
 
 $(function(){
-    b($("#b"), 5000);
+    b($("#b"), 60000);
 });
 //****************scrollTo*******************
 // $('a[href^="#"]').click(function(e) {
