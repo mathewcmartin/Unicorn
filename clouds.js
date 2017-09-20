@@ -52,6 +52,18 @@ var b = function($b,speed){
 $(function(){
     b($("#b"), 250000);
 });
+
+var c = function($c,speed){
+    cloudWidth = $c.width();
+
+    $c.animate({
+        "left": "100%"
+    }, speed);
+};
+
+$(function(){
+    c($("#c"), 100000);
+});
 //****************scrollTo*******************
 // $('a[href^="#"]').click(function(e) {
 //     // Prevent the jump and the #hash from appearing on the address bar
