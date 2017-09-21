@@ -33,12 +33,12 @@ body {
     float: left;
 
   }*/
-section {
+section#parallax--viewport {
   position: relative;
   overflow: hidden;
   /*margin: 10%;*/
-  height:1200px;
-  width: 1600px;
+  height:1500px;
+  width: 1690px;
 }
 
 div#b {
