@@ -20,6 +20,9 @@ Create an attractive background for modular use on websites, specifically for my
 ## jQuery
 Along with HTML and CSS, jQuery is intended to add the animation of the layers as ```<div>```s using jQuery's .animate() function. 
 
+jInvertScroll is a lightweight and fast jQuery plugin for creating horizontal parallax scrolling effects on page scroll down.
+https://www.jqueryscript.net/animation/jQuery-Plugin-For-Horizontal-Parallax-Scrolling-jInvertScroll.html
+
 
 ## Credits
 This project was inspired by the open scene of “Princess Mononoke”, a film directed by Hayao Miyazaki. A beautiful moving landscape with clouds lending depth and perspective as the camera scrolls down from the horizon to the foreground. Credit should be given that works vision in inspiring beauty and wisdom thru storytelling, lending light to the shared human struggle.
